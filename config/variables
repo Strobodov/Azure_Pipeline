@@ -1,0 +1,5 @@
+azure="YOUR AZURE USERNAME"
+azure_password="YOUR AZURE PASSWORD"
+admin="<<CHOOSE AN ADMIN USERNAME>>"
+password=<<CHOOSE A PASSWORD>>
+fqdn="<<NAME OF RESOURCE GROUP>>-<<NAME OF VIRTUAL MACHINE>>.<<NAME OF AZURE REGION>>.cloudapp.azure.com"
